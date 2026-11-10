@@ -6,7 +6,7 @@ Turn your **iPhone** or **Apple Watch** into a pointer for your Mac. Aim it at t
 
 No Wi-Fi and no servers: the phone or watch talks straight to the Mac over Bluetooth.
 
-> Status: the Mac app and the iPhone app work (tested on iOS 27.2). The Apple Watch app works too (tested on an Apple Watch Ultra with watchOS 26.6), but it is new, so expect rough edges.
+> Status: **not yet tested on real hardware.** Everything builds, but no device testing has happened yet — the Watch app in particular is expected to be rough. Tried it? Please open an issue with how it went.
 
 ## What it does
 

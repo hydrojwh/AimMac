@@ -6,5 +6,12 @@ DerivedData/
 # Personal Xcode data
 xcuserdata/
 
+# Local signing (see Apple/Config.xcconfig)
+Apple/Local.xcconfig
+
+# Tooling leftovers
+.v2c/
+.video_agent/
+
 # macOS
 .DS_Store
